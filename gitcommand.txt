@@ -1,9 +1,15 @@
 //初始化一个git仓库
 git init
-//添加文件到仓库
+
+/*添加或修改文件的操作
+//添加文件到暂存区
 git add gitcmmand.txt
 //提交,""内是提交说明
 git commit -m "gitlearn" 
+*/
+//删除文件的操作
+git rm gitcmmand.txt
+git commit -m "remove"
 //查看提交结果
 git status
 //查看修改内容
@@ -17,3 +23,8 @@ git reset --hard HEAD^
 git reflog
 //回到指定版本(b1z6为版本号)
 git reset --hard b1z6
+//撤销暂存区的修改,把暂存区的内容退回工作区
+git reset HEAD gitcmmand.txt
+//丢弃工作区的修改,git checkout其实是用版本库里的版本替换工作区的版本
+git checkout -- gitcmmand.txt
+
