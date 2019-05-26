@@ -27,4 +27,6 @@ git reset --hard b1z6
 git reset HEAD gitcmmand.txt
 //丢弃工作区的修改,git checkout其实是用版本库里的版本替换工作区的版本
 git checkout -- gitcmmand.txt
+//推送本地内容到远程仓库
+git push -u origin master
 
