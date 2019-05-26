@@ -8,3 +8,8 @@ git commit -m "gitlearn"
 git status
 //查看修改内容
 git diff
+//查看提交日志
+git log
+//HEAD表示当前版本,HEAD^表示上个，HEAD^^表示上上个，也可用HEAD~2
+//回退命令
+git reset --hard HEAD^
