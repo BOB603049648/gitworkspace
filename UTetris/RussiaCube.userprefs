@@ -1,0 +1,20 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Block.cs">
+    <Files>
+      <File FileName="F:\Unity Resource\RussiaCube\TetrisClone\Assets\Scripts\Block.js" Line="99" Column="21" />
+      <File FileName="F:\Unity Resource\RussiaCube\TetrisClone\Assets\Scripts\Manager.js" Line="138" Column="20" />
+      <File FileName="Assets\Scripts\Block.cs" Line="90" Column="1" />
+      <File FileName="Assets\Scripts\Manager.cs" Line="140" Column="4" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
