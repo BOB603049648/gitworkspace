@@ -1,4 +1,4 @@
-//初始化一个git仓库
+﻿//初始化一个git仓库
 git init
 
 /*添加或修改文件的操作
@@ -29,4 +29,4 @@ git reset HEAD gitcmmand.txt
 git checkout -- gitcmmand.txt
 //推送本地内容到远程仓库
 git push -u origin master
-
+//test
